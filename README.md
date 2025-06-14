@@ -23,6 +23,10 @@ MyBB'de konu ve gönderilerinizde ki iç ve dış linkleri belirleyeceğiniz gru
 *  Daha sonra MyBB Admin Kontrol Paneli -> Eklentiler -> Aktif Olmayan Eklentiler kısmından **Linkleri Gizle (1.0)** adlı eklentiyi Kur & Etkinleştir diyerek eklentiyi kurun.
 *  Forum Ayarlar -> **Linkleri Gizle Eklenti Ayarları** adlı ayar grubundan eklentinin ayarlarını yapılandırabilirsiniz.
 
+# Eklenti Görselleri
+<img src="https://ik.imagekit.io/mybbpro/simurg_linkgizle_eklentisi_1_gHYZgspeU.png" width="25%"></img> <img src="https://ik.imagekit.io/mybbpro/simurg_linkgizle_eklentisi_2_-4TZV672b.webp" width="25%"></img> <img src="https://ik.imagekit.io/mybbpro/simurg_linkgizle_eklentisi_3_jPy7Qei5i.webp" width="25%"></img> <img src="https://ik.imagekit.io/mybbpro/simurg_linkgizle_eklentisi_4_X0AvJ3lMD.webp" width="15%"></img> 
+
+
 ## Eklenti Nasıl Kaldırılır?
 * MyBB Admin Kontrol Paneli -> Eklentiler -> Aktif Eklentiler kısmından **Linkleri Gizle (1.0)** adlı eklentiyi bulun ve Devredışı Bırak & Kaldır diyerek eklentiyi kaldırın.
 * Daha sonra FTP'nize bağlanarak aşağıda listelenen dosyaları sunucunuzdan kaldırın.
